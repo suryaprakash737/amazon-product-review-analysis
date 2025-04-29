@@ -45,9 +45,3 @@ In this project, I analyzed a real Amazon product dataset to uncover insights on
 - Practiced visual storytelling for insight communication
 
 ---
-
-##  Project Links
--  Blog Post: *Coming soon*
--  LinkedIn Summary Post: *Coming soon*
--  One-Pager PDF: *Coming soon*
--  Notebook: [`notebook/amazon_review_analysis.ipynb`](notebook/amazon_review_analysis.ipynb)
